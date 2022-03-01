@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fantasies of a troubled mannes head.</title>
+            <author>Canand, J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1566</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01020</idno>
+            <idno type="STC">STC 4555</idno>
+            <idno type="STC">Interim Tract Supplement Guide Huth 50[57]</idno>
+            <idno type="EEBO-CITATION">99892098</idno>
+            <idno type="PROQUEST">ocm99892098</idno>
+            <idno type="VID">182372</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01020)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182372)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:4[56])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fantasies of a troubled mannes head.</title>
+                  <author>Canand, J.</author>
+                  <author>B. G. (Bernard Garter).</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Without Aldersgate in little Brittaine, by A. Lacy,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1566]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Includes 4 poems; title is taken from first poem, which is signed: I.C. [i.e. J. Canand]. The other poems are: "Of euyll tounges" signed: J. Canand; "Of truth and triall" signed: B.G. [i.e. B. Garter]; and "A strife betwene Appelles and Pigmalion" signed: Ber. Gar.</note>
+                  <note>"A strife betwene Appelles and Pigmalion" was formerly identified as STC 11630.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182372:1"/>
+            <!-- PDF PAGE 1 -->
+            <head>¶ The fantaſies of a troubled mannes head.</head>
+            <l>BY Fortune as I lay in bed, my fortune was to fynd,</l>
+            <l>Such fancies as my careful thought hath brought into my mynd.</l>
+            <l>And when each one was gone to reſt, all ſofte in bed to lye,</l>
+            <l>I would haue ſlept, but that the watch did folow ſtyl mine eye.</l>
+            <l>And Sodeinlie I ſaw a Sea of wofull ſorrowes preſt,</l>
+            <l>Whoſe wicked wayes of ſharpe repulſe, bred mine vnquiet reſt;</l>
+            <l>I ſaw this world and how it went, ech ſtate in his degrée,</l>
+            <l>And that from Wealth ygraunted is, both lyfe and libertie,</l>
+            <l>I ſaw eke how Envie did raigne, and bare the greatiſt price,</l>
+            <l>Yet greatter poiſon is not found within the Cockatrice,</l>
+            <l>I saw alſo how fowle Diſdaine, oft times to forge my woe,</l>
+            <l>Gaue me the cup of bitter ſwéete, to pledge my mortal foe,</l>
+            <l>I ſaw alſo how that Deſier, to reſt no place could fynd,</l>
+            <l>But ſtyl conſtraind in endles paine, to follow natures kynd.</l>
+            <l>I ſaw alſo (moſt ſtraunge of all) how Nature did forſake,</l>
+            <l>The bloud y<hi rend="sup">t</hi> in her womb was wrought, as doth y<hi rend="sup">e</hi> lothed Snake.</l>
+            <l>I ſaw how fancie would retaine no longer then ſhée luſt,</l>
+            <l>And as the wynd how ſhée doth chaunge, and is not for to truſt.</l>
+            <l>I ſaw how Stedfaſtnes did flye, with wynges of often chaunge,</l>
+            <l>A flyeng bird but ſeldome ſéen, her nature is ſo ſtraunge.</l>
+            <l>I ſaw how pleaſaunt times did paſſe, as flowers do in the mede,</l>
+            <l>To day that riſeth red as Roſe, to morow falleth deade.</l>
+            <l>I ſaw my time how it did run, as ſand out of a glaſſe,</l>
+            <l>Euen as each owre appointed is, from time and tide to paſſe,</l>
+            <l>I ſaw the yeares that I had ſpent, and loſſe of all my payne,</l>
+            <l>And how the ſporte of youthly plaies, my follie did retayne,</l>
+            <l>I ſaw how that the little Ants, in Somer ſtyl doth rome,</l>
+            <l>To ſeke their foode wherby to liue, in Winter for to come,</l>
+            <l>I ſaw eke Vertue how ſhée ſate, the thréede of life to ſpin,</l>
+            <l>Which ſheweth the end of euery worke, before it doth begin,</l>
+            <l>And when all theſe I thus behelde, with manie mo pardie,</l>
+            <l>In me, me thought each one had wrought a ꝑfect ꝓpertie:</l>
+            <l>And then I ſaid vnto my ſelfe, a leſſon this ſhall bée,</l>
+            <l>For other that ſhall after come, for to beware by mée,</l>
+            <l>Thus all the night I did diuiſe, which way I might conſtrayne,</l>
+            <l>To forme a plot y<hi rend="sup">t</hi> wit might worke thes brau<g ref="char:cmbAbbrStroke">̄</g>ches in my brayne.</l>
+            <closer>
+               <signed>I. C.</signed>
+            </closer>
+            <trailer>¶ FINIS.</trailer>
+         </div>
+         <div type="poem">
+            <head>Of euyll tounges.</head>
+            <lg>
+               <l>O Euyll tounges, which clap at euerie wynd.</l>
+               <l>Ye ſlea the quicke, and eke the dead defame:</l>
+               <l>Thoſe that liue well, ſome fault in them ye fynd,</l>
+               <l>Ye take no thought, in ſclaundring their good name.</l>
+               <l>Ye put iuſt men, oft times to open ſhame,</l>
+               <l>Ye ryng ſo lowde, ye ſound vnto the Skyes:</l>
+               <l>And yet in proofe, ye ſowe nothyng but lyes.</l>
+            </lg>
+            <lg>
+               <l>❀ Ye make great hatred, where peace hath ben of long,</l>
+               <l>You bring good order to ruine and eke decaye:</l>
+               <l>Ye plucke downe right, ye doe enhaunce the wrong,</l>
+               <l>Ye tourne ſwete myrth, to wo and wallawaye.</l>
+               <l>Of miſcheifs all, you are the ground I ſaye,</l>
+               <l>Happie is he, that liueth on ſuch a ſorte:</l>
+               <l>That nedes not feare ſuch tounges of falſe reporte.</l>
+            </lg>
+            <closer>
+               <signed>ꝙ I. Canand.</signed>
+            </closer>
+            <trailer>¶ FINIS.</trailer>
+         </div>
+         <div type="poem">
+            <head>¶Of truſt and triall.</head>
+            <l>WHo truſts before he tries, may ſoone his truſt repent,</l>
+            <l>Who tries before he truſts, doth ſo his care preuent:</l>
+            <l>Thus truſt may not be cauſe of triall (then we ſée)</l>
+            <l>But triall muſt be cauſe of truſt, in ech degrée,</l>
+            <closer>
+               <signed>B. G.</signed>
+            </closer>
+            <trailer>¶ Finis.</trailer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:182372:1"/>
+            <!-- PDF PAGE 1 -->
+            <head>A ſtrife betwene Appelles and Pigmalion.</head>
+            <lg>
+               <l>WHen that Appelles liued in Grece,</l>
+               <l>Pigmalion alſo raigned than:</l>
+               <l>Theſe two did ſtriue to frame a pece,</l>
+               <l>Which ſhould amaze the ſight of man.</l>
+               <l>Whereby they might win ſuch a name,</l>
+               <l>As ſhould deſerue immortall fame.</l>
+            </lg>
+            <lg>
+               <l>¶Appelles then ſtrayed euerie where,</l>
+               <l>To marke and viewe ech courtlie Dame:</l>
+               <l>And when he heard where any were,</l>
+               <l>Did well deſerue the prayſe and fame:</l>
+               <l>He thither rode with willyng harte,</l>
+               <l>Of her to take the cumlieſt parte.</l>
+            </lg>
+            <lg>
+               <l>¶And when he had with trauaile great,</l>
+               <l>A thouſand wights knit vp in one:</l>
+               <l>He found therewith to wurke his feat,</l>
+               <l>A paterne ſuch, as earſt was none.</l>
+               <l>And then with ioye retourned backe,</l>
+               <l>For to thoſe limmes, but lyfe did lacke.</l>
+            </lg>
+            <lg>
+               <l>¶Pigmalion eke, to ſhew his arte,</l>
+               <l>Did then conclude, in Iuorie white</l>
+               <l>To forme and frame in euerie parte,</l>
+               <l>A woman fayre to his delighte.</l>
+               <l>Wherein was euerie limme ſo coucht,</l>
+               <l>As not a vayne he lefte vntoucht.</l>
+            </lg>
+            <lg>
+               <l>¶When their two cunnings ioyned were,</l>
+               <l>A worlde it was to ſée their wurke:</l>
+               <l>But yet it may greue euerie eare,</l>
+               <l>To heare the chaunce did therein lurke.</l>
+               <l>For throught the pece they framed had,</l>
+               <l>For loue, Pigmalion did run mad.</l>
+            </lg>
+            <lg>
+               <l>¶Which ſéene, Appelles ſhut his booke,</l>
+               <l>And durſt no longer viewe that ſight:</l>
+               <l>For why: her comelie limmes and looke,</l>
+               <l>In one did paſſe ech other wight.</l>
+               <l>And while Appelles wiped his eye,</l>
+               <l>The pece did mount vnto the Skye.</l>
+            </lg>
+            <lg>
+               <l>¶Where as dame Nature toke it ſtraight,</l>
+               <l>And wrapt it vp in linnen folde:</l>
+               <l>Eſtéeming it more, then the waight</l>
+               <l>Had ten times ben of gliſtryng golde.</l>
+               <l>Shée lockt it vp faſt in cheſt,</l>
+               <l>To pleaſure him that ſhée loued beſt.</l>
+            </lg>
+            <lg>
+               <l>¶Appelles then diſmayed much,</l>
+               <l>Did throw his booke in to the fire:</l>
+               <l>He feared leſt the Gods did grutch,</l>
+               <l>That wurkemen ſhould ſo high aſpire.</l>
+               <l>Yet once agayne he trauailed Grece,</l>
+               <l>With leſſe effect, and made a pece.</l>
+            </lg>
+            <lg>
+               <l>¶Which long time did hold great renowne</l>
+               <l>For <hi>Venus</hi> all men did it call:</l>
+               <l>Tyll in our dayes gan Nature frowne,</l>
+               <l>And gaue the workemannes worke a fall.</l>
+               <l>For, from her cheſt t'auoyde all ſtryfe,</l>
+               <l>Shée tooke the pece, and gaue it lyfe.</l>
+            </lg>
+            <lg>
+               <l>¶And for a token gaue the ſame,</l>
+               <l>Vnto the higheſt man of ſtate:</l>
+               <l>And ſaid: ſince thou art crownd by Fame,</l>
+               <l>Take to thée here, this worthie mate.</l>
+               <l>The ſame which kyld the caruers ſtrife,</l>
+               <l>Before that Nature gaue it life.</l>
+            </lg>
+            <lg>
+               <l>¶Lorde, yf Appelles now did know,</l>
+               <l>Or yf Pigmalion once ſhould heare:</l>
+               <l>Of this their worke the worthie ſhow,</l>
+               <l>Since Nature gaue it life to beare.</l>
+               <l>No doubt at all, her worthie prayſe,</l>
+               <l>Thoſe ſelie Grekes from death wold rayſe.</l>
+            </lg>
+            <lg>
+               <l>¶Then thoſe that daylie ſée her grace,</l>
+               <l>Whoſe vertue paſſeth euerie wight:</l>
+               <l>Her comelie corps, her chriſtall face,</l>
+               <l>They ought to pray both day and night.</l>
+               <l>That God may graunt moſt happie ſtate,</l>
+               <l>Vnto that Princeſſe and her mate.</l>
+            </lg>
+            <closer>
+               <signed>Ber. Gar.</signed>
+            </closer>
+            <trailer>¶ FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London without Alderſgate in little Britaine, by A. Lacy.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
